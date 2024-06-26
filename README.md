@@ -18,7 +18,7 @@
 
 # Introduction to React
 
-### React is a popular Javascript library for building user interfaces especially single-page applications.It allows developers to create resuable UI components, making the code more organized and eeficient.React updates the Ui dynamically in response to data changes providing a sooth user experience.It is maintained by facebook and a large community of developers.
+React is a popular Javascript library for building user interfaces especially single-page applications.It allows developers to create resuable UI components, making the code more organized and eeficient.React updates the Ui dynamically in response to data changes providing a sooth user experience.It is maintained by facebook and a large community of developers.
 
 # Specification of React
 
@@ -37,7 +37,7 @@
 
 # How to install React
 
-### To install React on Ubuntu 20.04, you need to set up Node.js and npm (Node Package Manager) first, and then you can create a React project. Here are the step-by-step instructions:
+To install React on Ubuntu 20.04, you need to set up Node.js and npm (Node Package Manager) first, and then you can create a React project. Here are the step-by-step instructions:
 
 ## Step 1: Install Node.js and npm
 ### 1.Update your package list:
