@@ -157,7 +157,7 @@ This will open your new React application in your default web browser at http://
 
 # React JSX
 
-###  JSX, or JavaScript XML, is a syntax extension for JavaScript used in React to describe the user interface in a way that looks similar to HTML. It allows developers to write HTML-like code within their JavaScript, making the UI code more readable and intuitive. With JSX, you can embed JavaScript expressions directly into the markup using curly braces {}, enabling dynamic content and logic. React components, which are the building blocks of a React application, are typically defined using JSX. This combination of HTML-like structure and JavaScript functionality helps streamline the process of creating and managing complex user interfaces.
+JSX, or JavaScript XML, is a syntax extension for JavaScript used in React to describe the user interface in a way that looks similar to HTML. It allows developers to write HTML-like code within their JavaScript, making the UI code more readable and intuitive. With JSX, you can embed JavaScript expressions directly into the markup using curly braces {}, enabling dynamic content and logic. React components, which are the building blocks of a React application, are typically defined using JSX. This combination of HTML-like structure and JavaScript functionality helps streamline the process of creating and managing complex user interfaces.
 
 # React JSX Example
 
@@ -175,12 +175,12 @@ export default Welcome;
 
 # React Components
 
-### React components are like Lego bricks for building web interfaces. They are small, reusable parts of a website or web app that you can customize and combine to create different features and layouts. Components can be simple (like a button or a header) or complex (like a form or a card). Each component manages its own information and can interact with other components, making it easier to organize and update your website. They help developers create interactive and dynamic web pages efficiently by breaking down the UI into manageable pieces. Example
+React components are like Lego bricks for building web interfaces. They are small, reusable parts of a website or web app that you can customize and combine to create different features and layouts. Components can be simple (like a button or a header) or complex (like a form or a card). Each component manages its own information and can interact with other components, making it easier to organize and update your website. They help developers create interactive and dynamic web pages efficiently by breaking down the UI into manageable pieces. Example
 
 
 # React State
 
-### React state is like a memory for a component where it stores information that can change over time. Imagine it as a container where a component keeps track of data that might be modified based on user actions or other factors. For example, in a to-do list app, the state would store the list of tasks and update it whenever a new task is added or completed. State allows React components to be dynamic and interactive, making them responsive to user input and updates in real-time without needing to reload the entire page. It's essential for building interactive user interfaces where content can change based on user interactions for instance
+React state is like a memory for a component where it stores information that can change over time. Imagine it as a container where a component keeps track of data that might be modified based on user actions or other factors. For example, in a to-do list app, the state would store the list of tasks and update it whenever a new task is added or completed. State allows React components to be dynamic and interactive, making them responsive to user input and updates in real-time without needing to reload the entire page. It's essential for building interactive user interfaces where content can change based on user interactions for instance
 
 
 ## Counter Component (`Counter.js`)
@@ -210,7 +210,7 @@ export default Counter;
 
 # React Props
 
-### In React, props (short for properties) are used to pass data from one component to another, typically from a parent component to a child component. They are like function arguments that allow components to communicate and share information. Props are read-only, meaning that a component receiving props cannot modify them. Instead, the parent component controls and updates the data. This makes components reusable and helps manage the flow of data in a React application for instance
+In React, props (short for properties) are used to pass data from one component to another, typically from a parent component to a child component. They are like function arguments that allow components to communicate and share information. Props are read-only, meaning that a component receiving props cannot modify them. Instead, the parent component controls and updates the data. This makes components reusable and helps manage the flow of data in a React application for instance
 
 ### Parent component
 # React Props Example
